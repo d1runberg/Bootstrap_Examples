@@ -1,0 +1,11 @@
+{
+  "name": "kitch_sink_example",
+  "version": "1.0.0",
+  "description": "example showing use of all of the bootstrap elements and styles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Derek Runberg",
+  "license": "ISC"
+}
